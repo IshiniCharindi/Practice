@@ -1,0 +1,15 @@
+G:\Git practice\Practice\Day2\strings\obj\Debug\net9.0\strings.GeneratedMSBuildEditorConfig.editorconfig
+G:\Git practice\Practice\Day2\strings\obj\Debug\net9.0\strings.AssemblyInfoInputs.cache
+G:\Git practice\Practice\Day2\strings\obj\Debug\net9.0\strings.AssemblyInfo.cs
+G:\Git practice\Practice\Day2\strings\obj\Debug\net9.0\strings.csproj.CoreCompileInputs.cache
+G:\Git practice\Practice\Day2\strings\obj\Debug\net9.0\strings.sourcelink.json
+G:\Git practice\Practice\Day2\strings\bin\Debug\net9.0\strings.exe
+G:\Git practice\Practice\Day2\strings\bin\Debug\net9.0\strings.deps.json
+G:\Git practice\Practice\Day2\strings\bin\Debug\net9.0\strings.runtimeconfig.json
+G:\Git practice\Practice\Day2\strings\bin\Debug\net9.0\strings.dll
+G:\Git practice\Practice\Day2\strings\bin\Debug\net9.0\strings.pdb
+G:\Git practice\Practice\Day2\strings\obj\Debug\net9.0\strings.dll
+G:\Git practice\Practice\Day2\strings\obj\Debug\net9.0\refint\strings.dll
+G:\Git practice\Practice\Day2\strings\obj\Debug\net9.0\strings.pdb
+G:\Git practice\Practice\Day2\strings\obj\Debug\net9.0\strings.genruntimeconfig.cache
+G:\Git practice\Practice\Day2\strings\obj\Debug\net9.0\ref\strings.dll
