@@ -1,0 +1,15 @@
+G:\Git practice\Practice\Day2\variables\bin\Debug\net9.0\variables.exe
+G:\Git practice\Practice\Day2\variables\bin\Debug\net9.0\variables.deps.json
+G:\Git practice\Practice\Day2\variables\bin\Debug\net9.0\variables.runtimeconfig.json
+G:\Git practice\Practice\Day2\variables\bin\Debug\net9.0\variables.dll
+G:\Git practice\Practice\Day2\variables\bin\Debug\net9.0\variables.pdb
+G:\Git practice\Practice\Day2\variables\obj\Debug\net9.0\variables.GeneratedMSBuildEditorConfig.editorconfig
+G:\Git practice\Practice\Day2\variables\obj\Debug\net9.0\variables.AssemblyInfoInputs.cache
+G:\Git practice\Practice\Day2\variables\obj\Debug\net9.0\variables.AssemblyInfo.cs
+G:\Git practice\Practice\Day2\variables\obj\Debug\net9.0\variables.csproj.CoreCompileInputs.cache
+G:\Git practice\Practice\Day2\variables\obj\Debug\net9.0\variables.sourcelink.json
+G:\Git practice\Practice\Day2\variables\obj\Debug\net9.0\variables.dll
+G:\Git practice\Practice\Day2\variables\obj\Debug\net9.0\refint\variables.dll
+G:\Git practice\Practice\Day2\variables\obj\Debug\net9.0\variables.pdb
+G:\Git practice\Practice\Day2\variables\obj\Debug\net9.0\variables.genruntimeconfig.cache
+G:\Git practice\Practice\Day2\variables\obj\Debug\net9.0\ref\variables.dll
